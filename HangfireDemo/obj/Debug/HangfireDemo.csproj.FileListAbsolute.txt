@@ -77,6 +77,12 @@ E:\HangfireDemo\HangfireDemo\bin\Microsoft.Owin.Security.OAuth.xml
 E:\HangfireDemo\HangfireDemo\bin\Microsoft.Owin.Security.Google.xml
 E:\HangfireDemo\HangfireDemo\bin\Microsoft.Owin.Security.Twitter.xml
 E:\HangfireDemo\HangfireDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-E:\HangfireDemo\HangfireDemo\obj\Debug\HangfireDemo.csprojResolveAssemblyReference.cache
 E:\HangfireDemo\HangfireDemo\obj\Debug\HangfireDemo.dll
 E:\HangfireDemo\HangfireDemo\obj\Debug\HangfireDemo.pdb
+E:\HangfireDemo\HangfireDemo\bin\Hangfire.Core.dll
+E:\HangfireDemo\HangfireDemo\bin\Hangfire.SqlServer.dll
+E:\HangfireDemo\HangfireDemo\bin\Hangfire.Core.xml
+E:\HangfireDemo\HangfireDemo\bin\Hangfire.SqlServer.xml
+E:\HangfireDemo\HangfireDemo\bin\es\Hangfire.Core.resources.dll
+E:\HangfireDemo\HangfireDemo\bin\zh\Hangfire.Core.resources.dll
+E:\HangfireDemo\HangfireDemo\obj\Debug\HangfireDemo.csprojResolveAssemblyReference.cache
